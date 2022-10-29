@@ -16,7 +16,7 @@
 <div class="container-fluid">
   <header class="header" id="top">
     <div class="container">
-      <a href="index.html" class="header-logo"><img src="${url}/images/logo-tgdd.png" alt=""></a>
+      <a href="./index" class="header-logo"><img src="${url}/images/logo-tgdd.png" alt=""></a>
       <form class="header-search" id="search" action="" method="get" accept-charset="utf-8">
         <input type="text" name="search" value="" placeholder="Bạn tìm gì...">
         <i class="fa fa-search"></i>
